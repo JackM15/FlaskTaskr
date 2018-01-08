@@ -4,7 +4,7 @@ Application Features:
 
 1 - Users can sign in and out from the landing page
 
-2 - New ujsers can register on a registration page
+2 - New users can register on a registration page
 
 3 - Once signed in, users can add new tasks (each task has a name, due date, priority, status and a unique ID)
 
